@@ -22,7 +22,7 @@
 Cybersecurity enthusiast driven by curiosity and a hands-on approach to learning. Interested in both how attacks happen and how to stop them — from red teaming and adversary simulation to defensive tactics and threat detection. Enjoys diving into vulnerability research, building C2 infrastructure, and exploring real-world exploitation techniques. Actively contributing on platforms like HackerOne while learning from every challenge. Focused on understanding the bigger picture: how attackers think, how systems fail, and how to build smarter defenses that actually work in the wild.
 
 ---
-## 🔧 My Skill Arsenal
+## 🔧 Skillsets 
 
 - **Languages**: Python, Bash, PowerShell, SQL  
 - **Red Team Tools**: Metasploit, Sliver, CrackMapExec, Evil-WinRM, BloodHound  
@@ -32,7 +32,7 @@ Cybersecurity enthusiast driven by curiosity and a hands-on approach to learning
 - **Blue Team & Monitoring**: Splunk, QRadar, OpenEDR  
 - **Containers & Infra**: Docker, Kubernetes, VMware, Virt-Manager  
 - **Web & Server Security**: Apache, NGINX, Caddy, iptables, OpenVPN  
-- **Operating Systems**: Kali, Parrot, Ubuntu, Windows Server (2016–2022)
+- **Operating Systems**:Redhat 9+, Kali, Parrot, Ubuntu, Windows ,Windows Server (2016–2022) 
 
 ---
 
@@ -140,7 +140,7 @@ Feel free to connect with me through any of the platforms below:
 - 🏅 **[Credly](https://www.credly.com/users/mongwoiching-marma)
 
 
-- **📝 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+  **📝 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 Mongwoiching Marma 
 
 ---
