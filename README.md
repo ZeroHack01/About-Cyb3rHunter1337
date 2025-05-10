@@ -1,12 +1,14 @@
 <!-- Header Badge Banner -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/Independent Security Researcher-black?style=for-the-badge&logo=protonmail&logoColor=white">
   <img src="https://img.shields.io/badge/Offensive Security Enthusiast-red?style=for-the-badge&logo=HackTheBox&logoColor=white">
   <img src="https://img.shields.io/badge/TryHackMe-Elite-critical?style=for-the-badge&logo=tryhackme&logoColor=white">
   <img src="https://img.shields.io/badge/Red Team & OSINT Specialist-blue?style=for-the-badge&logo=Wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/License-CC--BY--4.0-success?style=for-the-badge&logo=creativecommons&logoColor=white">
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+    <img src="https://img.shields.io/badge/License-CC--BY--4.0-success?style=for-the-badge&logo=creativecommons&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
@@ -17,7 +19,7 @@
 ---
 
 ## 🧭 About Me
-I’m a cybersecurity enthusiast focused on offensive security, red teaming, and adversary simulation. Currently contributing on platforms like HackerOne, I specialize in vulnerability research, network exploitation, and C2 infrastructure. With hands-on experience in both traditional pentesting and modern attack techniques, I aim to bridge the gap between real-world threats and practical defense strategies.
+Cybersecurity enthusiast driven by curiosity and a hands-on approach to learning. Interested in both how attacks happen and how to stop them — from red teaming and adversary simulation to defensive tactics and threat detection. Enjoys diving into vulnerability research, building C2 infrastructure, and exploring real-world exploitation techniques. Actively contributing on platforms like HackerOne while learning from every challenge. Focused on understanding the bigger picture: how attackers think, how systems fail, and how to build smarter defenses that actually work in the wild.
 
 ---
 ## 🔧 My Skill Arsenal
