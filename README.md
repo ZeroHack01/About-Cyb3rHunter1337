@@ -137,7 +137,7 @@ Feel free to connect with me through any of the platforms below:
 - 🧠 **[TryHackMe](https://tryhackme.com/p/Mongwoiching)**
 - ✍️ **[Medium Blog](https://medium.com/@NextGencyber)**
 - 💻 **[GitHub](https://github.com/ZeroHack01)**
-- 🏅 **[Credly](https://www.credly.com/users/mongwoiching-marma)
+- 🏅 **[Credly](https://www.credly.com/users/mongwoiching-marma)**
 
 
   **📝 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
