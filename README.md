@@ -1,9 +1,11 @@
 <!-- Header Badge Banner -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Independent Security Researcher-black?style=for-the-badge&logo=protonmail&logoColor=white">
   <img src="https://img.shields.io/badge/Offensive Security Enthusiast-red?style=for-the-badge&logo=HackTheBox&logoColor=white">
   <img src="https://img.shields.io/badge/TryHackMe-Elite-critical?style=for-the-badge&logo=tryhackme&logoColor=white">
   <img src="https://img.shields.io/badge/Red Team & OSINT Specialist-blue?style=for-the-badge&logo=Wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/License-CC--BY--4.0-success?style=for-the-badge&logo=creativecommons&logoColor=white">
 </p>
 
 ---
@@ -133,8 +135,14 @@ Feel free to connect with me through any of the platforms below:
 - 🧠 **[TryHackMe](https://tryhackme.com/p/Mongwoiching)**
 - ✍️ **[Medium Blog](https://medium.com/@NextGencyber)**
 - 💻 **[GitHub](https://github.com/ZeroHack01)**
-- 🏅 **[Credly](https://www.credly.com/users/mongwoiching-marma)**
+- 🏅 **[Credly](https://www.credly.com/users/mongwoiching-marma)
+
+
+- **📝 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+© 2025 Mongwoiching Marma 
+
 ---
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Red Team Ready-darkred?style=for-the-badge&logo=HackTheBox&logoColor=white">
