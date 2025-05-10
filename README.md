@@ -13,7 +13,7 @@
 ---
 
 # 👋 Hey, I'm Mongwoiching Marma  
-**🎯 Independent Security Researcher | 🧠 Offensive Security & Threat Hunter | 🛡️ Cybersecurity Analyst**  
+**🎯 Independent Security Researcher | 🧠 Offensive Security & Defensive Security | 🛡️ Cybersecurity**  
 📍 Dhaka, Bangladesh | 🔐 Bug Bounty Hunter @ HackerOne | 🧑‍🎓 PGD in Cybersecurity @ AIUB  
 
 ---
